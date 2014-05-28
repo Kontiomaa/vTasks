@@ -1,4 +1,4 @@
-package com.example.tokka;
+package com.samuelkontiomaa.vTasks;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

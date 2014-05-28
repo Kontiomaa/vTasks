@@ -1,4 +1,4 @@
-package com.example.tokka;
+package com.samuelkontiomaa.vTasks;
 
 import com.vaadin.server.UIClassSelectionEvent;
 import com.vaadin.server.UIProvider;

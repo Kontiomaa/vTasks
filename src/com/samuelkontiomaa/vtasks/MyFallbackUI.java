@@ -1,4 +1,4 @@
-package com.example.tokka;
+package com.samuelkontiomaa.vTasks;
 
 import com.vaadin.server.VaadinRequest;
 import com.vaadin.ui.Button;

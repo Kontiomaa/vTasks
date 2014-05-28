@@ -1,4 +1,4 @@
-package com.example.tokka;
+package com.samuelkontiomaa.vTasks;
 
 
 import com.vaadin.addon.touchkit.extensions.TouchKitIcon;
